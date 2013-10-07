@@ -1,0 +1,18 @@
+<!doctype html>
+
+<table>
+<tr>
+<th>For the query: {{ query }}</th>
+</tr>
+{% for url in urls %}
+	<tr><td>
+		<script language="JavaScript">
+			var archive_prefix = "http://www.archive.org/stream/";
+			var archive_page = "#page/1/mode/2up/search/";
+			//var archive_url = archive_prefix.concat(file, archive_page, {{query}});
+			//document.write( "<a href=\"" + {{ url|tojson|safe }} + "\">{{ url }}</a>")
+			document.write("<a href=\"http://www.archive.org/stream/"  + {{url|tojson|safe}} + "#page/1/mode/2up/search/" + {{query|tojson|safe}} + "\">{{url}}</a>");
+		</script>
+	</td></tr>
+{% endfor %}
+</table>

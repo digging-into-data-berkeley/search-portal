@@ -1,0 +1,1216 @@
+[Thu Sep 12 16:33:18 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:33:27 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:33:40 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest/ denied
+[Thu Sep 12 16:34:42 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest/ denied
+[Thu Sep 12 16:34:44 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:34:49 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:34:51 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:34:53 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest/ denied
+[Thu Sep 12 16:36:33 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest/index.html denied
+[Thu Sep 12 16:36:37 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:40:12 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:40:14 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest/ denied
+[Thu Sep 12 16:43:01 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:43:05 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:43:06 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:43:10 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:43:16 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:43:30 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:43:34 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:43:36 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:43:39 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:44:21 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:44:22 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:46:31 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:46:35 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:47:43 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:47:44 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:54:01 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:54:04 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 16:54:14 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:54:25 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flaskapp denied
+[Thu Sep 12 16:54:29 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flaskapp/ denied
+[Thu Sep 12 16:56:55 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 16:56:58 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 17:00:13 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied, referer: http://superuser.com/questions/158792/403-forbidden-error-on-mac-os-x-localhost
+[Thu Sep 12 17:00:58 2013] [error] [client 127.0.0.1] (13)Permission denied: access to / denied
+[Thu Sep 12 17:01:01 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest denied
+[Thu Sep 12 17:01:03 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flasktest/ denied
+[Thu Sep 12 17:01:09 2013] [error] [client 127.0.0.1] (13)Permission denied: access to /flaskapp/ denied
+[Thu Sep 12 17:54:46 2013] [info] mod_wsgi (pid=24565): Attach interpreter ''.
+[Thu Sep 12 17:54:49 2013] [info] [client ::1] mod_wsgi (pid=24566, process='', application='AJs-MacBook-Pro.local|'): Loading WSGI script '/Library/WebServer/Documents/public_html/wsgi/hello.wsgi'.
+[Thu Sep 12 17:54:49 2013] [error] [client ::1] mod_wsgi (pid=24566): Target WSGI script '/Library/WebServer/Documents/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 12 17:54:49 2013] [error] [client ::1] mod_wsgi (pid=24566): Exception occurred processing WSGI script '/Library/WebServer/Documents/public_html/wsgi/hello.wsgi'.
+[Thu Sep 12 17:54:49 2013] [error] [client ::1] Traceback (most recent call last):
+[Thu Sep 12 17:54:49 2013] [error] [client ::1]   File "/Library/WebServer/Documents/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Thu Sep 12 17:54:49 2013] [error] [client ::1]     from hello import app as application
+[Thu Sep 12 17:54:49 2013] [error] [client ::1] ImportError: No module named hello
+[Thu Sep 12 17:56:05 2013] [info] [client ::1] mod_wsgi (pid=24566, process='', application='AJs-MacBook-Pro.local|'): Loading WSGI script '/Library/WebServer/Documents/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:41:11 2013] [info] mod_wsgi (pid=12314): Attach interpreter ''.
+[Thu Sep 19 20:41:23 2013] [info] [client 136.152.178.129] mod_wsgi (pid=12316, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:41:23 2013] [error] [client 136.152.178.129] mod_wsgi (pid=12316): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 19 20:41:23 2013] [error] [client 136.152.178.129] mod_wsgi (pid=12316): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:41:23 2013] [error] [client 136.152.178.129] Traceback (most recent call last):
+[Thu Sep 19 20:41:23 2013] [error] [client 136.152.178.129]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Thu Sep 19 20:41:23 2013] [error] [client 136.152.178.129]     from hello import app as application
+[Thu Sep 19 20:41:23 2013] [error] [client 136.152.178.129] ImportError: No module named hello
+[Thu Sep 19 20:43:03 2013] [info] mod_wsgi (pid=12314): Shutdown requested 'hello'.
+[Thu Sep 19 20:43:03 2013] [info] mod_wsgi (pid=12314): Stopping process 'hello'.
+[Thu Sep 19 20:43:03 2013] [info] mod_wsgi (pid=12314): Destroying interpreters.
+[Thu Sep 19 20:43:03 2013] [info] mod_wsgi (pid=12314): Cleanup interpreter ''.
+[Thu Sep 19 20:43:03 2013] [info] mod_wsgi (pid=12314): Terminating Python.
+[Thu Sep 19 20:43:03 2013] [info] mod_wsgi (pid=12314): Python has shutdown.
+[Thu Sep 19 20:43:05 2013] [info] mod_wsgi (pid=12453): Attach interpreter ''.
+[Thu Sep 19 20:43:12 2013] [info] [client 136.152.178.129] mod_wsgi (pid=12455, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:43:12 2013] [error] [client 136.152.178.129] mod_wsgi (pid=12455): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 19 20:43:12 2013] [error] [client 136.152.178.129] mod_wsgi (pid=12455): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:43:12 2013] [error] [client 136.152.178.129] Traceback (most recent call last):
+[Thu Sep 19 20:43:12 2013] [error] [client 136.152.178.129]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Thu Sep 19 20:43:12 2013] [error] [client 136.152.178.129]     from hello import app as application
+[Thu Sep 19 20:43:12 2013] [error] [client 136.152.178.129] ImportError: No module named hello
+[Thu Sep 19 20:46:13 2013] [info] mod_wsgi (pid=12453): Shutdown requested 'hello'.
+[Thu Sep 19 20:46:13 2013] [info] mod_wsgi (pid=12453): Stopping process 'hello'.
+[Thu Sep 19 20:46:13 2013] [info] mod_wsgi (pid=12453): Destroying interpreters.
+[Thu Sep 19 20:46:13 2013] [info] mod_wsgi (pid=12453): Cleanup interpreter ''.
+[Thu Sep 19 20:46:13 2013] [info] mod_wsgi (pid=12453): Terminating Python.
+[Thu Sep 19 20:46:13 2013] [info] mod_wsgi (pid=12453): Python has shutdown.
+[Thu Sep 19 20:46:14 2013] [info] mod_wsgi (pid=12794): Attach interpreter ''.
+[Thu Sep 19 20:46:18 2013] [info] [client 136.152.178.129] mod_wsgi (pid=12795, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:59:18 2013] [info] [client 136.152.178.129] mod_wsgi (pid=12796, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 20:59:41 2013] [info] mod_wsgi (pid=12794): Shutdown requested 'hello'.
+[Thu Sep 19 20:59:41 2013] [info] mod_wsgi (pid=12794): Stopping process 'hello'.
+[Thu Sep 19 20:59:41 2013] [info] mod_wsgi (pid=12794): Destroying interpreters.
+[Thu Sep 19 20:59:41 2013] [info] mod_wsgi (pid=12794): Cleanup interpreter ''.
+[Thu Sep 19 20:59:41 2013] [info] mod_wsgi (pid=12794): Terminating Python.
+[Thu Sep 19 20:59:41 2013] [info] mod_wsgi (pid=12794): Python has shutdown.
+[Thu Sep 19 20:59:42 2013] [info] mod_wsgi (pid=13023): Attach interpreter ''.
+[Thu Sep 19 20:59:46 2013] [info] [client 136.152.178.129] mod_wsgi (pid=13025, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 19 23:38:07 2013] [info] [client 136.152.37.40] mod_wsgi (pid=13024, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Fri Sep 20 14:18:40 2013] [info] [client 183.166.30.230] Request header read timeout
+[Fri Sep 20 20:13:00 2013] [info] mod_wsgi (pid=13023): Shutdown requested 'hello'.
+[Fri Sep 20 20:13:00 2013] [info] mod_wsgi (pid=13023): Stopping process 'hello'.
+[Fri Sep 20 20:13:00 2013] [info] mod_wsgi (pid=13023): Destroying interpreters.
+[Fri Sep 20 20:13:00 2013] [info] mod_wsgi (pid=13023): Cleanup interpreter ''.
+[Fri Sep 20 20:13:00 2013] [info] mod_wsgi (pid=13023): Terminating Python.
+[Fri Sep 20 20:13:00 2013] [info] mod_wsgi (pid=13023): Python has shutdown.
+[Fri Sep 20 20:13:01 2013] [info] mod_wsgi (pid=19896): Attach interpreter ''.
+[Fri Sep 20 20:13:04 2013] [info] [client 70.36.134.86] mod_wsgi (pid=19897, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Fri Sep 20 20:13:14 2013] [info] [client 70.36.134.86] mod_wsgi (pid=19898, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Fri Sep 20 20:19:35 2013] [info] mod_wsgi (pid=19896): Shutdown requested 'hello'.
+[Fri Sep 20 20:19:35 2013] [info] mod_wsgi (pid=19896): Stopping process 'hello'.
+[Fri Sep 20 20:19:35 2013] [info] mod_wsgi (pid=19896): Destroying interpreters.
+[Fri Sep 20 20:19:35 2013] [info] mod_wsgi (pid=19896): Cleanup interpreter ''.
+[Fri Sep 20 20:19:35 2013] [info] mod_wsgi (pid=19896): Terminating Python.
+[Fri Sep 20 20:19:35 2013] [info] mod_wsgi (pid=19896): Python has shutdown.
+[Fri Sep 20 20:19:36 2013] [info] mod_wsgi (pid=20047): Attach interpreter ''.
+[Fri Sep 20 20:19:38 2013] [info] [client 70.36.134.86] mod_wsgi (pid=20048, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Fri Sep 20 20:28:24 2013] [info] mod_wsgi (pid=20047): Shutdown requested 'hello'.
+[Fri Sep 20 20:28:24 2013] [info] mod_wsgi (pid=20047): Stopping process 'hello'.
+[Fri Sep 20 20:28:24 2013] [info] mod_wsgi (pid=20047): Destroying interpreters.
+[Fri Sep 20 20:28:24 2013] [info] mod_wsgi (pid=20047): Cleanup interpreter ''.
+[Fri Sep 20 20:28:24 2013] [info] mod_wsgi (pid=20047): Terminating Python.
+[Fri Sep 20 20:28:24 2013] [info] mod_wsgi (pid=20047): Python has shutdown.
+[Fri Sep 20 20:28:57 2013] [info] mod_wsgi (pid=791): Attach interpreter ''.
+[Fri Sep 20 20:29:23 2013] [info] [client 70.36.134.86] mod_wsgi (pid=792, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Fri Sep 20 20:30:32 2013] [info] [client 70.36.134.86] mod_wsgi (pid=794, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=791): Shutdown requested 'hello'.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=791): Stopping process 'hello'.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=791): Destroying interpreters.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=791): Cleanup interpreter ''.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=791): Terminating Python.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=791): Python has shutdown.
+[Sun Sep 22 06:30:57 2013] [info] mod_wsgi (pid=8312): Attach interpreter ''.
+[Sun Sep 22 17:31:04 2013] [info] [client 70.36.134.86] mod_wsgi (pid=8313, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Sun Sep 22 19:25:58 2013] [info] [client 70.89.92.5] mod_wsgi (pid=8315, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 19:37:59 2013] [info] mod_wsgi (pid=8312): Shutdown requested 'hello'.
+[Mon Sep 23 19:37:59 2013] [info] mod_wsgi (pid=8312): Stopping process 'hello'.
+[Mon Sep 23 19:37:59 2013] [info] mod_wsgi (pid=8312): Destroying interpreters.
+[Mon Sep 23 19:37:59 2013] [info] mod_wsgi (pid=8312): Cleanup interpreter ''.
+[Mon Sep 23 19:37:59 2013] [info] mod_wsgi (pid=8312): Terminating Python.
+[Mon Sep 23 19:37:59 2013] [info] mod_wsgi (pid=8312): Python has shutdown.
+[Mon Sep 23 19:38:00 2013] [info] mod_wsgi (pid=19758): Attach interpreter ''.
+[Mon Sep 23 19:38:05 2013] [info] [client 136.152.126.124] mod_wsgi (pid=19760, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124] mod_wsgi (pid=19760): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124] mod_wsgi (pid=19760): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 9, in <module>
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     from cheshire3.baseObjects import Session
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     makedirs(head, mode)
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     makedirs(head, mode)
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124]     mkdir(name, mode)
+[Mon Sep 23 19:38:06 2013] [error] [client 136.152.126.124] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Mon Sep 23 19:54:38 2013] [info] mod_wsgi (pid=19758): Shutdown requested 'hello'.
+[Mon Sep 23 19:54:38 2013] [info] mod_wsgi (pid=19758): Stopping process 'hello'.
+[Mon Sep 23 19:54:38 2013] [info] mod_wsgi (pid=19758): Destroying interpreters.
+[Mon Sep 23 19:54:38 2013] [info] mod_wsgi (pid=19758): Cleanup interpreter ''.
+[Mon Sep 23 19:54:38 2013] [info] mod_wsgi (pid=19758): Terminating Python.
+[Mon Sep 23 19:54:38 2013] [info] mod_wsgi (pid=19758): Python has shutdown.
+[Mon Sep 23 19:54:40 2013] [info] mod_wsgi (pid=19930): Attach interpreter ''.
+[Mon Sep 23 19:55:06 2013] [info] [client 136.152.126.124] mod_wsgi (pid=19932, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124] mod_wsgi (pid=19932): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124] mod_wsgi (pid=19932): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     from cheshire3.baseObjects import Session
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     makedirs(head, mode)
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     makedirs(head, mode)
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124]     mkdir(name, mode)
+[Mon Sep 23 19:55:07 2013] [error] [client 136.152.126.124] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Mon Sep 23 20:05:50 2013] [info] mod_wsgi (pid=19930): Shutdown requested 'hello'.
+[Mon Sep 23 20:05:50 2013] [info] mod_wsgi (pid=19930): Stopping process 'hello'.
+[Mon Sep 23 20:05:50 2013] [info] mod_wsgi (pid=19930): Destroying interpreters.
+[Mon Sep 23 20:05:50 2013] [info] mod_wsgi (pid=19930): Cleanup interpreter ''.
+[Mon Sep 23 20:05:50 2013] [info] mod_wsgi (pid=19930): Terminating Python.
+[Mon Sep 23 20:05:50 2013] [info] mod_wsgi (pid=19930): Python has shutdown.
+[Mon Sep 23 20:05:51 2013] [info] mod_wsgi (pid=20080): Attach interpreter ''.
+[Mon Sep 23 20:06:01 2013] [info] [client 136.152.126.124] mod_wsgi (pid=20081, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20081): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20081): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 10, in <module>
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Sep 23 20:06:01 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]     C3Object.__init__(self, session, topNode, None)
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]     self._recurseLxmlSubConfigs(session, e)
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 321, in _recurseLxmlSubConfigs
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]     self._parseLxmlIncludes(session, path)
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 277, in _parseLxmlIncludes
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]     dom = self._getDomFromFile(session, path)
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124]     raise FileDoesNotExistException(fileName)
+[Mon Sep 23 20:06:02 2013] [error] [client 136.152.126.124] FileDoesNotExistException: FileDoesNotExistException: /var/www/.cheshire3-server/configs/databases
+[Mon Sep 23 20:06:08 2013] [info] [client 136.152.126.124] mod_wsgi (pid=20082, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20082): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20082): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 10, in <module>
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     C3Object.__init__(self, session, topNode, None)
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     self._recurseLxmlSubConfigs(session, e)
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 321, in _recurseLxmlSubConfigs
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     self._parseLxmlIncludes(session, path)
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 277, in _parseLxmlIncludes
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     dom = self._getDomFromFile(session, path)
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124]     raise FileDoesNotExistException(fileName)
+[Mon Sep 23 20:06:09 2013] [error] [client 136.152.126.124] FileDoesNotExistException: FileDoesNotExistException: /var/www/.cheshire3-server/configs/databases
+[Mon Sep 23 20:06:14 2013] [info] [client 136.152.126.124] mod_wsgi (pid=20081, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20081): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20081): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 10, in <module>
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     C3Object.__init__(self, session, topNode, None)
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     self._recurseLxmlSubConfigs(session, e)
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 321, in _recurseLxmlSubConfigs
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     self._parseLxmlIncludes(session, path)
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 277, in _parseLxmlIncludes
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     dom = self._getDomFromFile(session, path)
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124]     raise FileDoesNotExistException(fileName)
+[Mon Sep 23 20:06:14 2013] [error] [client 136.152.126.124] FileDoesNotExistException: FileDoesNotExistException: /var/www/.cheshire3-server/configs/databases
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20080): Shutdown requested 'hello'.
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20080): Stopping process 'hello'.
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20080): Destroying interpreters.
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20080): Cleanup interpreter ''.
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20080): Terminating Python.
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20080): Python has shutdown.
+[Mon Sep 23 20:15:34 2013] [info] mod_wsgi (pid=20507): Attach interpreter ''.
+[Mon Sep 23 20:15:44 2013] [info] [client 136.152.126.124] mod_wsgi (pid=20509, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20509): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20509): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     C3Object.__init__(self, session, topNode, None)
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     self._recurseLxmlSubConfigs(session, e)
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 321, in _recurseLxmlSubConfigs
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     self._parseLxmlIncludes(session, path)
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 277, in _parseLxmlIncludes
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     dom = self._getDomFromFile(session, path)
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124]     raise FileDoesNotExistException(fileName)
+[Mon Sep 23 20:15:45 2013] [error] [client 136.152.126.124] FileDoesNotExistException: FileDoesNotExistException: /var/www/.cheshire3-server/configs/databases
+[Mon Sep 23 20:18:51 2013] [info] mod_wsgi (pid=20507): Shutdown requested 'hello'.
+[Mon Sep 23 20:18:51 2013] [info] mod_wsgi (pid=20507): Stopping process 'hello'.
+[Mon Sep 23 20:18:51 2013] [info] mod_wsgi (pid=20507): Destroying interpreters.
+[Mon Sep 23 20:18:51 2013] [info] mod_wsgi (pid=20507): Cleanup interpreter ''.
+[Mon Sep 23 20:18:51 2013] [info] mod_wsgi (pid=20507): Terminating Python.
+[Mon Sep 23 20:18:51 2013] [info] mod_wsgi (pid=20507): Python has shutdown.
+[Mon Sep 23 20:18:52 2013] [info] mod_wsgi (pid=20640): Attach interpreter ''.
+[Mon Sep 23 20:18:56 2013] [info] [client 136.152.126.124] mod_wsgi (pid=20642, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20642): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124] mod_wsgi (pid=20642): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124] Traceback (most recent call last):
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     from hello import app as application
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     from run import *
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     serv = SimpleServer(session, os.path.join('/home/luis/repository/cheshire3/cheshire3', 'configs', 'serverConfig.xml'))
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     C3Object.__init__(self, session, topNode, None)
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     self._recurseLxmlSubConfigs(session, e)
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 321, in _recurseLxmlSubConfigs
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     self._parseLxmlIncludes(session, path)
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 277, in _parseLxmlIncludes
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     dom = self._getDomFromFile(session, path)
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124]     raise FileDoesNotExistException(fileName)
+[Mon Sep 23 20:18:56 2013] [error] [client 136.152.126.124] FileDoesNotExistException: FileDoesNotExistException: /var/www/.cheshire3-server/configs/databases
+[Mon Sep 23 23:45:04 2013] [info] [client 198.20.70.114] mod_wsgi (pid=20641, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] mod_wsgi (pid=20641): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] mod_wsgi (pid=20641): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] Traceback (most recent call last):
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     from hello import app as application
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     from run import *
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     from cheshire3.baseObjects import Session
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     makedirs(head, mode)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     makedirs(head, mode)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     mkdir(name, mode)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Mon Sep 23 23:45:05 2013] [info] [client 198.20.70.114] mod_wsgi (pid=20642, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] mod_wsgi (pid=20642): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] mod_wsgi (pid=20642): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] Traceback (most recent call last):
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     from hello import app as application
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     from run import *
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     serv = SimpleServer(session, os.path.join('/home/luis/repository/cheshire3/cheshire3', 'configs', 'serverConfig.xml'))
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     C3Object.__init__(self, session, topNode, None)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     self._recurseLxmlSubConfigs(session, e)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 321, in _recurseLxmlSubConfigs
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     self._parseLxmlIncludes(session, path)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 277, in _parseLxmlIncludes
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     dom = self._getDomFromFile(session, path)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114]     raise FileDoesNotExistException(fileName)
+[Mon Sep 23 23:45:05 2013] [error] [client 198.20.70.114] FileDoesNotExistException: FileDoesNotExistException: /var/www/.cheshire3-server/configs/databases
+[Tue Sep 24 01:09:00 2013] [info] mod_wsgi (pid=20640): Shutdown requested 'hello'.
+[Tue Sep 24 01:09:00 2013] [info] mod_wsgi (pid=20640): Stopping process 'hello'.
+[Tue Sep 24 01:09:00 2013] [info] mod_wsgi (pid=20640): Destroying interpreters.
+[Tue Sep 24 01:09:00 2013] [info] mod_wsgi (pid=20640): Cleanup interpreter ''.
+[Tue Sep 24 01:09:00 2013] [info] mod_wsgi (pid=20640): Terminating Python.
+[Tue Sep 24 01:09:00 2013] [info] mod_wsgi (pid=20640): Python has shutdown.
+[Tue Sep 24 01:09:01 2013] [info] mod_wsgi (pid=23115): Attach interpreter ''.
+[Tue Sep 24 01:09:11 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23117, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23117): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23117): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:09:11 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:09:15 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23116, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23116): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23116): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:09:15 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:10:23 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23117, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23117): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23117): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:10:23 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:17:49 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23116, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23116): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23116): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:17:49 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:18:24 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23117, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23117): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23117): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:18:24 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:36:22 2013] [info] mod_wsgi (pid=23115): Shutdown requested 'hello'.
+[Tue Sep 24 01:36:22 2013] [info] mod_wsgi (pid=23115): Stopping process 'hello'.
+[Tue Sep 24 01:36:22 2013] [info] mod_wsgi (pid=23115): Destroying interpreters.
+[Tue Sep 24 01:36:22 2013] [info] mod_wsgi (pid=23115): Cleanup interpreter ''.
+[Tue Sep 24 01:36:22 2013] [info] mod_wsgi (pid=23115): Terminating Python.
+[Tue Sep 24 01:36:22 2013] [info] mod_wsgi (pid=23115): Python has shutdown.
+[Tue Sep 24 01:36:23 2013] [info] mod_wsgi (pid=23920): Attach interpreter ''.
+[Tue Sep 24 01:37:14 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23922, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23922): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23922): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:37:14 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:52:41 2013] [info] [client 70.36.134.86] mod_wsgi (pid=23921, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23921): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86] mod_wsgi (pid=23921): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 3, in <module>
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 4, in <module>
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     from cheshire3.baseObjects import Session
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/__init__.py", line 116, in <module>
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     os.makedirs(os.path.join(_user_cheshire3_dir, 'configs', 'databases'))
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 150, in makedirs
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     makedirs(head, mode)
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]   File "/usr/lib/python2.7/os.py", line 157, in makedirs
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86]     mkdir(name, mode)
+[Tue Sep 24 01:52:41 2013] [error] [client 70.36.134.86] OSError: [Errno 13] Permission denied: '/var/www/.cheshire3-server'
+[Tue Sep 24 01:59:31 2013] [info] mod_wsgi (pid=23920): Shutdown requested 'hello'.
+[Tue Sep 24 01:59:31 2013] [info] mod_wsgi (pid=23920): Stopping process 'hello'.
+[Tue Sep 24 01:59:31 2013] [info] mod_wsgi (pid=23920): Destroying interpreters.
+[Tue Sep 24 01:59:31 2013] [info] mod_wsgi (pid=23920): Cleanup interpreter ''.
+[Tue Sep 24 01:59:31 2013] [info] mod_wsgi (pid=23920): Terminating Python.
+[Tue Sep 24 01:59:31 2013] [info] mod_wsgi (pid=23920): Python has shutdown.
+[Tue Sep 24 02:03:18 2013] [info] mod_wsgi (pid=24627): Attach interpreter ''.
+[Tue Sep 24 02:13:22 2013] [info] mod_wsgi (pid=24627): Shutdown requested 'hello'.
+[Tue Sep 24 02:13:22 2013] [info] mod_wsgi (pid=24627): Stopping process 'hello'.
+[Tue Sep 24 02:13:22 2013] [info] mod_wsgi (pid=24627): Destroying interpreters.
+[Tue Sep 24 02:13:22 2013] [info] mod_wsgi (pid=24627): Cleanup interpreter ''.
+[Tue Sep 24 02:13:22 2013] [info] mod_wsgi (pid=24627): Terminating Python.
+[Tue Sep 24 02:13:22 2013] [info] mod_wsgi (pid=24627): Python has shutdown.
+[Tue Sep 24 02:13:23 2013] [info] mod_wsgi (pid=24812): Attach interpreter ''.
+[Tue Sep 24 02:14:03 2013] [info] [client 70.36.134.86] mod_wsgi (pid=24814, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86] mod_wsgi (pid=24814): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86] mod_wsgi (pid=24814): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 14, in <module>
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     db = serv.get_object(session, 'db_tdo_index') # the Database
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 621, in get_object
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     obj = dynamic.makeObjectFromDom(session, config, self)
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/dynamic.py", line 40, in makeObjectFromDom
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     return buildObject(session, objectType, [topNode, parentObject])
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/dynamic.py", line 119, in buildObject
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     return parentClass(session, *args)
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/database.py", line 96, in __init__
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     SummaryObject.__init__(self, session, config, parent)
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/baseStore.py", line 105, in __init__
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     self._create(session, mp)
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/baseStore.py", line 129, in _create
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86]     raise ValueError("Could not create %s" % dbPath)
+[Tue Sep 24 02:14:03 2013] [error] [client 70.36.134.86] ValueError: Could not create /home/luis/dbs/tdo_index/.cheshire3/stores/metadata.bdb
+[Tue Sep 24 02:23:43 2013] [info] [client 70.36.134.86] mod_wsgi (pid=24813, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86] mod_wsgi (pid=24813): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86] mod_wsgi (pid=24813): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 3, in <module>
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     from run import *
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/run.py", line 14, in <module>
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     db = serv.get_object(session, 'db_tdo_index') # the Database
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 621, in get_object
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     obj = dynamic.makeObjectFromDom(session, config, self)
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/dynamic.py", line 40, in makeObjectFromDom
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     return buildObject(session, objectType, [topNode, parentObject])
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/dynamic.py", line 119, in buildObject
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     return parentClass(session, *args)
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/database.py", line 96, in __init__
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     SummaryObject.__init__(self, session, config, parent)
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/baseStore.py", line 105, in __init__
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     self._create(session, mp)
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]   File "/home/luis/repository/cheshire3/cheshire3/baseStore.py", line 129, in _create
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86]     raise ValueError("Could not create %s" % dbPath)
+[Tue Sep 24 02:23:44 2013] [error] [client 70.36.134.86] ValueError: Could not create /home/luis/dbs/tdo_index/.cheshire3/stores/metadata.bdb
+[Tue Sep 24 02:30:59 2013] [info] mod_wsgi (pid=24812): Shutdown requested 'hello'.
+[Tue Sep 24 02:30:59 2013] [info] mod_wsgi (pid=24812): Stopping process 'hello'.
+[Tue Sep 24 02:30:59 2013] [info] mod_wsgi (pid=24812): Destroying interpreters.
+[Tue Sep 24 02:30:59 2013] [info] mod_wsgi (pid=24812): Cleanup interpreter ''.
+[Tue Sep 24 02:30:59 2013] [info] mod_wsgi (pid=24812): Terminating Python.
+[Tue Sep 24 02:31:00 2013] [info] mod_wsgi (pid=24812): Python has shutdown.
+[Tue Sep 24 02:31:00 2013] [info] mod_wsgi (pid=25370): Attach interpreter ''.
+[Tue Sep 24 02:31:04 2013] [info] [client 70.36.134.86] mod_wsgi (pid=25372, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Sep 24 02:31:11 2013] [info] [client 70.36.134.86] mod_wsgi (pid=25371, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 21:37:55 2013] [info] mod_wsgi (pid=25370): Shutdown requested 'hello'.
+[Wed Sep 25 21:37:55 2013] [info] mod_wsgi (pid=25370): Stopping process 'hello'.
+[Wed Sep 25 21:37:55 2013] [info] mod_wsgi (pid=25370): Destroying interpreters.
+[Wed Sep 25 21:37:55 2013] [info] mod_wsgi (pid=25370): Cleanup interpreter ''.
+[Wed Sep 25 21:37:55 2013] [info] mod_wsgi (pid=25370): Terminating Python.
+[Wed Sep 25 21:37:55 2013] [info] mod_wsgi (pid=25370): Python has shutdown.
+[Wed Sep 25 21:37:56 2013] [info] mod_wsgi (pid=6850): Attach interpreter ''.
+[Wed Sep 25 21:38:04 2013] [info] [client 136.152.179.16] mod_wsgi (pid=6852, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 21:38:12 2013] [info] [client 136.152.179.16] mod_wsgi (pid=6851, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/
+[Wed Sep 25 21:45:30 2013] [info] mod_wsgi (pid=6850): Shutdown requested 'hello'.
+[Wed Sep 25 21:45:30 2013] [info] mod_wsgi (pid=6850): Stopping process 'hello'.
+[Wed Sep 25 21:45:30 2013] [info] mod_wsgi (pid=6850): Destroying interpreters.
+[Wed Sep 25 21:45:30 2013] [info] mod_wsgi (pid=6850): Cleanup interpreter ''.
+[Wed Sep 25 21:45:30 2013] [info] mod_wsgi (pid=6850): Terminating Python.
+[Wed Sep 25 21:45:30 2013] [info] mod_wsgi (pid=6850): Python has shutdown.
+[Wed Sep 25 21:45:31 2013] [info] mod_wsgi (pid=7025): Attach interpreter ''.
+[Wed Sep 25 21:45:35 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7028, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 21:46:16 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7026, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/
+[Wed Sep 25 22:56:19 2013] [info] mod_wsgi (pid=7025): Shutdown requested 'hello'.
+[Wed Sep 25 22:56:19 2013] [info] mod_wsgi (pid=7025): Stopping process 'hello'.
+[Wed Sep 25 22:56:19 2013] [info] mod_wsgi (pid=7025): Destroying interpreters.
+[Wed Sep 25 22:56:19 2013] [info] mod_wsgi (pid=7025): Cleanup interpreter ''.
+[Wed Sep 25 22:56:19 2013] [info] mod_wsgi (pid=7025): Terminating Python.
+[Wed Sep 25 22:56:19 2013] [info] mod_wsgi (pid=7025): Python has shutdown.
+[Wed Sep 25 22:56:20 2013] [info] mod_wsgi (pid=7376): Attach interpreter ''.
+[Wed Sep 25 22:56:24 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7378, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 22:56:52 2013] [info] mod_wsgi (pid=7376): Shutdown requested 'hello'.
+[Wed Sep 25 22:56:52 2013] [info] mod_wsgi (pid=7376): Stopping process 'hello'.
+[Wed Sep 25 22:56:52 2013] [info] mod_wsgi (pid=7376): Destroying interpreters.
+[Wed Sep 25 22:56:52 2013] [info] mod_wsgi (pid=7376): Cleanup interpreter ''.
+[Wed Sep 25 22:56:52 2013] [info] mod_wsgi (pid=7376): Terminating Python.
+[Wed Sep 25 22:56:52 2013] [info] mod_wsgi (pid=7376): Python has shutdown.
+[Wed Sep 25 22:56:53 2013] [info] mod_wsgi (pid=7487): Attach interpreter ''.
+[Wed Sep 25 22:56:55 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7489, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 22:56:59 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7490, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:14 2013] [info] mod_wsgi (pid=7487): Shutdown requested 'hello'.
+[Wed Sep 25 23:02:14 2013] [info] mod_wsgi (pid=7487): Stopping process 'hello'.
+[Wed Sep 25 23:02:14 2013] [info] mod_wsgi (pid=7487): Destroying interpreters.
+[Wed Sep 25 23:02:14 2013] [info] mod_wsgi (pid=7487): Cleanup interpreter ''.
+[Wed Sep 25 23:02:14 2013] [info] mod_wsgi (pid=7487): Terminating Python.
+[Wed Sep 25 23:02:14 2013] [info] mod_wsgi (pid=7487): Python has shutdown.
+[Wed Sep 25 23:02:15 2013] [info] mod_wsgi (pid=7626): Attach interpreter ''.
+[Wed Sep 25 23:02:26 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7627, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16] mod_wsgi (pid=7627): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16] mod_wsgi (pid=7627): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16] Traceback (most recent call last):
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16]     from hello import app as application
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16]   File "/var/www/public_html/apps/hello.py", line 12
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16]     if request.method == 'GET'
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16]                              ^
+[Wed Sep 25 23:02:26 2013] [error] [client 136.152.179.16] SyntaxError: invalid syntax
+[Wed Sep 25 23:02:31 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7628, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16] mod_wsgi (pid=7628): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16] mod_wsgi (pid=7628): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16] Traceback (most recent call last):
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16]     from hello import app as application
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16]   File "/var/www/public_html/apps/hello.py", line 12
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16]     if request.method == 'GET'
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16]                              ^
+[Wed Sep 25 23:02:31 2013] [error] [client 136.152.179.16] SyntaxError: invalid syntax
+[Wed Sep 25 23:02:44 2013] [info] [client 136.152.179.16] mod_wsgi (pid=7627, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16] mod_wsgi (pid=7627): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16] mod_wsgi (pid=7627): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16] Traceback (most recent call last):
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16]     from hello import app as application
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16]   File "/var/www/public_html/apps/hello.py", line 12
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16]     if request.method == 'GET'
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16]                              ^
+[Wed Sep 25 23:02:44 2013] [error] [client 136.152.179.16] SyntaxError: invalid syntax
+[Thu Sep 26 01:50:04 2013] [info] [client 70.36.134.86] mod_wsgi (pid=7628, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7628): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7628): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 12
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86]     if request.method == 'GET'
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86]                              ^
+[Thu Sep 26 01:50:04 2013] [error] [client 70.36.134.86] SyntaxError: invalid syntax
+[Thu Sep 26 02:05:56 2013] [info] [client 70.36.134.86] mod_wsgi (pid=7627, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7627): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7627): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 12
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86]     if request.method == 'GET'
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86]                              ^
+[Thu Sep 26 02:05:56 2013] [error] [client 70.36.134.86] SyntaxError: invalid syntax
+[Thu Sep 26 02:06:02 2013] [info] [client 70.36.134.86] mod_wsgi (pid=7628, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7628): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7628): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 12
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86]     if request.method == 'GET'
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86]                              ^
+[Thu Sep 26 02:06:02 2013] [error] [client 70.36.134.86] SyntaxError: invalid syntax
+[Thu Sep 26 02:57:37 2013] [info] [client 70.36.134.86] mod_wsgi (pid=7627, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7627): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7627): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 12
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86]     if request.method == 'GET'
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86]                              ^
+[Thu Sep 26 02:57:37 2013] [error] [client 70.36.134.86] SyntaxError: invalid syntax
+[Thu Sep 26 02:57:38 2013] [info] [client 70.36.134.86] mod_wsgi (pid=7628, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7628): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7628): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 12
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86]     if request.method == 'GET'
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86]                              ^
+[Thu Sep 26 02:57:38 2013] [error] [client 70.36.134.86] SyntaxError: invalid syntax
+[Thu Sep 26 02:57:41 2013] [info] [client 70.36.134.86] mod_wsgi (pid=7627, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7627): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86] mod_wsgi (pid=7627): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86] Traceback (most recent call last):
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86]     from hello import app as application
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86]   File "/var/www/public_html/apps/hello.py", line 12
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86]     if request.method == 'GET'
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86]                              ^
+[Thu Sep 26 02:57:41 2013] [error] [client 70.36.134.86] SyntaxError: invalid syntax
+[Thu Sep 26 03:01:20 2013] [info] mod_wsgi (pid=7626): Shutdown requested 'hello'.
+[Thu Sep 26 03:01:20 2013] [info] mod_wsgi (pid=7626): Stopping process 'hello'.
+[Thu Sep 26 03:01:20 2013] [info] mod_wsgi (pid=7626): Destroying interpreters.
+[Thu Sep 26 03:01:20 2013] [info] mod_wsgi (pid=7626): Cleanup interpreter ''.
+[Thu Sep 26 03:01:20 2013] [info] mod_wsgi (pid=7626): Terminating Python.
+[Thu Sep 26 03:01:20 2013] [info] mod_wsgi (pid=7626): Python has shutdown.
+[Thu Sep 26 03:01:21 2013] [info] mod_wsgi (pid=13367): Attach interpreter ''.
+[Thu Sep 26 03:01:25 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13368, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:01:37 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13369, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:02:21 2013] [info] mod_wsgi (pid=13367): Shutdown requested 'hello'.
+[Thu Sep 26 03:02:21 2013] [info] mod_wsgi (pid=13367): Stopping process 'hello'.
+[Thu Sep 26 03:02:21 2013] [info] mod_wsgi (pid=13367): Destroying interpreters.
+[Thu Sep 26 03:02:21 2013] [info] mod_wsgi (pid=13367): Cleanup interpreter ''.
+[Thu Sep 26 03:02:21 2013] [info] mod_wsgi (pid=13367): Terminating Python.
+[Thu Sep 26 03:02:21 2013] [info] mod_wsgi (pid=13367): Python has shutdown.
+[Thu Sep 26 03:02:22 2013] [info] mod_wsgi (pid=13495): Attach interpreter ''.
+[Thu Sep 26 03:02:26 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13497, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:02:36 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13496, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Thu Sep 26 03:09:30 2013] [info] mod_wsgi (pid=13495): Shutdown requested 'hello'.
+[Thu Sep 26 03:09:30 2013] [info] mod_wsgi (pid=13495): Stopping process 'hello'.
+[Thu Sep 26 03:09:30 2013] [info] mod_wsgi (pid=13495): Destroying interpreters.
+[Thu Sep 26 03:09:30 2013] [info] mod_wsgi (pid=13495): Cleanup interpreter ''.
+[Thu Sep 26 03:09:30 2013] [info] mod_wsgi (pid=13495): Terminating Python.
+[Thu Sep 26 03:09:30 2013] [info] mod_wsgi (pid=13495): Python has shutdown.
+[Thu Sep 26 03:09:31 2013] [info] mod_wsgi (pid=13641): Attach interpreter ''.
+[Thu Sep 26 03:09:52 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13643, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:09:59 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13642, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Thu Sep 26 03:19:17 2013] [info] mod_wsgi (pid=13641): Shutdown requested 'hello'.
+[Thu Sep 26 03:19:17 2013] [info] mod_wsgi (pid=13641): Stopping process 'hello'.
+[Thu Sep 26 03:19:17 2013] [info] mod_wsgi (pid=13641): Destroying interpreters.
+[Thu Sep 26 03:19:17 2013] [info] mod_wsgi (pid=13641): Cleanup interpreter ''.
+[Thu Sep 26 03:19:17 2013] [info] mod_wsgi (pid=13641): Terminating Python.
+[Thu Sep 26 03:19:17 2013] [info] mod_wsgi (pid=13641): Python has shutdown.
+[Thu Sep 26 03:19:18 2013] [info] mod_wsgi (pid=13844): Attach interpreter ''.
+[Thu Sep 26 03:19:27 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13846, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:19:34 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13845, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:23:45 2013] [info] mod_wsgi (pid=13844): Shutdown requested 'hello'.
+[Thu Sep 26 03:23:45 2013] [info] mod_wsgi (pid=13844): Stopping process 'hello'.
+[Thu Sep 26 03:23:45 2013] [info] mod_wsgi (pid=13844): Destroying interpreters.
+[Thu Sep 26 03:23:45 2013] [info] mod_wsgi (pid=13844): Cleanup interpreter ''.
+[Thu Sep 26 03:23:45 2013] [info] mod_wsgi (pid=13844): Terminating Python.
+[Thu Sep 26 03:23:45 2013] [info] mod_wsgi (pid=13844): Python has shutdown.
+[Thu Sep 26 03:23:46 2013] [info] mod_wsgi (pid=13979): Attach interpreter ''.
+[Thu Sep 26 03:23:50 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13981, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:23:57 2013] [info] [client 70.36.134.86] mod_wsgi (pid=13980, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=13979): Shutdown requested 'hello'.
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=13979): Stopping process 'hello'.
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=13979): Destroying interpreters.
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=13979): Cleanup interpreter ''.
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=13979): Terminating Python.
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=13979): Python has shutdown.
+[Thu Sep 26 03:26:47 2013] [info] mod_wsgi (pid=14111): Attach interpreter ''.
+[Thu Sep 26 03:26:49 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14113, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Thu Sep 26 03:27:01 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14112, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:27:58 2013] [info] mod_wsgi (pid=14111): Shutdown requested 'hello'.
+[Thu Sep 26 03:27:58 2013] [info] mod_wsgi (pid=14111): Stopping process 'hello'.
+[Thu Sep 26 03:27:58 2013] [info] mod_wsgi (pid=14111): Destroying interpreters.
+[Thu Sep 26 03:27:58 2013] [info] mod_wsgi (pid=14111): Cleanup interpreter ''.
+[Thu Sep 26 03:27:58 2013] [info] mod_wsgi (pid=14111): Terminating Python.
+[Thu Sep 26 03:27:58 2013] [info] mod_wsgi (pid=14111): Python has shutdown.
+[Thu Sep 26 03:27:59 2013] [info] mod_wsgi (pid=14234): Attach interpreter ''.
+[Thu Sep 26 03:28:01 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14236, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:30:12 2013] [info] mod_wsgi (pid=14234): Shutdown requested 'hello'.
+[Thu Sep 26 03:30:12 2013] [info] mod_wsgi (pid=14234): Stopping process 'hello'.
+[Thu Sep 26 03:30:12 2013] [info] mod_wsgi (pid=14234): Destroying interpreters.
+[Thu Sep 26 03:30:12 2013] [info] mod_wsgi (pid=14234): Cleanup interpreter ''.
+[Thu Sep 26 03:30:12 2013] [info] mod_wsgi (pid=14234): Terminating Python.
+[Thu Sep 26 03:30:12 2013] [info] mod_wsgi (pid=14234): Python has shutdown.
+[Thu Sep 26 03:30:13 2013] [info] mod_wsgi (pid=14359): Attach interpreter ''.
+[Thu Sep 26 03:30:17 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14362, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14359): Shutdown requested 'hello'.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14359): Stopping process 'hello'.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14359): Destroying interpreters.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14359): Cleanup interpreter ''.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14359): Terminating Python.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14359): Python has shutdown.
+[Thu Sep 26 03:31:48 2013] [info] mod_wsgi (pid=14479): Attach interpreter ''.
+[Thu Sep 26 03:31:50 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14481, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14479): Shutdown requested 'hello'.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14479): Stopping process 'hello'.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14479): Destroying interpreters.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14479): Cleanup interpreter ''.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14479): Terminating Python.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14479): Python has shutdown.
+[Thu Sep 26 03:35:03 2013] [info] mod_wsgi (pid=14604): Attach interpreter ''.
+[Thu Sep 26 03:35:14 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14607, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:35:57 2013] [info] mod_wsgi (pid=14604): Shutdown requested 'hello'.
+[Thu Sep 26 03:35:57 2013] [info] mod_wsgi (pid=14604): Stopping process 'hello'.
+[Thu Sep 26 03:35:57 2013] [info] mod_wsgi (pid=14604): Destroying interpreters.
+[Thu Sep 26 03:35:57 2013] [info] mod_wsgi (pid=14604): Cleanup interpreter ''.
+[Thu Sep 26 03:35:57 2013] [info] mod_wsgi (pid=14604): Terminating Python.
+[Thu Sep 26 03:35:57 2013] [info] mod_wsgi (pid=14604): Python has shutdown.
+[Thu Sep 26 03:35:58 2013] [info] mod_wsgi (pid=14718): Attach interpreter ''.
+[Thu Sep 26 03:36:01 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14719, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:57:14 2013] [info] mod_wsgi (pid=14718): Shutdown requested 'hello'.
+[Thu Sep 26 03:57:14 2013] [info] mod_wsgi (pid=14718): Stopping process 'hello'.
+[Thu Sep 26 03:57:14 2013] [info] mod_wsgi (pid=14718): Destroying interpreters.
+[Thu Sep 26 03:57:14 2013] [info] mod_wsgi (pid=14718): Cleanup interpreter ''.
+[Thu Sep 26 03:57:14 2013] [info] mod_wsgi (pid=14718): Terminating Python.
+[Thu Sep 26 03:57:14 2013] [info] mod_wsgi (pid=14718): Python has shutdown.
+[Thu Sep 26 03:57:15 2013] [info] mod_wsgi (pid=14927): Attach interpreter ''.
+[Thu Sep 26 03:57:22 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14928, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 03:57:28 2013] [info] [client 70.36.134.86] mod_wsgi (pid=14929, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Thu Sep 26 04:07:37 2013] [info] mod_wsgi (pid=14927): Shutdown requested 'hello'.
+[Thu Sep 26 04:07:37 2013] [info] mod_wsgi (pid=14927): Stopping process 'hello'.
+[Thu Sep 26 04:07:37 2013] [info] mod_wsgi (pid=14927): Destroying interpreters.
+[Thu Sep 26 04:07:37 2013] [info] mod_wsgi (pid=14927): Cleanup interpreter ''.
+[Thu Sep 26 04:07:37 2013] [info] mod_wsgi (pid=14927): Terminating Python.
+[Thu Sep 26 04:07:37 2013] [info] mod_wsgi (pid=14927): Python has shutdown.
+[Thu Sep 26 04:07:38 2013] [info] mod_wsgi (pid=15366): Attach interpreter ''.
+[Thu Sep 26 04:07:46 2013] [info] [client 70.36.134.86] mod_wsgi (pid=15368, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Thu Sep 26 04:08:06 2013] [info] [client 70.36.134.86] mod_wsgi (pid=15367, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=15366): Shutdown requested 'hello'.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=15366): Stopping process 'hello'.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=15366): Destroying interpreters.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=15366): Cleanup interpreter ''.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=15366): Terminating Python.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=15366): Python has shutdown.
+[Sun Sep 29 06:46:26 2013] [info] mod_wsgi (pid=8261): Attach interpreter ''.
+[Sun Sep 29 19:04:15 2013] [info] [client 70.36.134.86] mod_wsgi (pid=8341, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Sun Sep 29 20:54:00 2013] [info] [client 70.36.134.86] mod_wsgi (pid=8342, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 17:32:08 2013] [info] mod_wsgi (pid=8261): Shutdown requested 'hello'.
+[Tue Oct 01 17:32:08 2013] [info] mod_wsgi (pid=8261): Stopping process 'hello'.
+[Tue Oct 01 17:32:08 2013] [info] mod_wsgi (pid=8261): Destroying interpreters.
+[Tue Oct 01 17:32:08 2013] [info] mod_wsgi (pid=8261): Cleanup interpreter ''.
+[Tue Oct 01 17:32:08 2013] [info] mod_wsgi (pid=8261): Terminating Python.
+[Tue Oct 01 17:32:08 2013] [info] mod_wsgi (pid=8261): Python has shutdown.
+[Tue Oct 01 17:32:09 2013] [info] mod_wsgi (pid=987): Attach interpreter ''.
+[Tue Oct 01 17:33:52 2013] [info] mod_wsgi (pid=987): Shutdown requested 'hello'.
+[Tue Oct 01 17:33:52 2013] [info] mod_wsgi (pid=987): Stopping process 'hello'.
+[Tue Oct 01 17:33:52 2013] [info] mod_wsgi (pid=987): Destroying interpreters.
+[Tue Oct 01 17:33:52 2013] [info] mod_wsgi (pid=987): Cleanup interpreter ''.
+[Tue Oct 01 17:33:52 2013] [info] mod_wsgi (pid=987): Terminating Python.
+[Tue Oct 01 17:33:52 2013] [info] mod_wsgi (pid=987): Python has shutdown.
+[Tue Oct 01 17:33:53 2013] [info] mod_wsgi (pid=1101): Attach interpreter ''.
+[Tue Oct 01 17:34:00 2013] [info] [client 70.36.134.86] mod_wsgi (pid=1103, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 17:34:10 2013] [info] [client 70.36.134.86] mod_wsgi (pid=1102, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Tue Oct 01 19:06:34 2013] [info] mod_wsgi (pid=1101): Shutdown requested 'hello'.
+[Tue Oct 01 19:06:34 2013] [info] mod_wsgi (pid=1101): Stopping process 'hello'.
+[Tue Oct 01 19:06:34 2013] [info] mod_wsgi (pid=1101): Destroying interpreters.
+[Tue Oct 01 19:06:34 2013] [info] mod_wsgi (pid=1101): Cleanup interpreter ''.
+[Tue Oct 01 19:06:34 2013] [info] mod_wsgi (pid=1101): Terminating Python.
+[Tue Oct 01 19:06:34 2013] [info] mod_wsgi (pid=1101): Python has shutdown.
+[Tue Oct 01 19:06:35 2013] [info] mod_wsgi (pid=1847): Attach interpreter ''.
+[Tue Oct 01 19:06:49 2013] [info] [client 70.36.134.86] mod_wsgi (pid=1848, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:06:59 2013] [info] [client 70.36.134.86] mod_wsgi (pid=1849, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=1847): Shutdown requested 'hello'.
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=1847): Stopping process 'hello'.
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=1847): Destroying interpreters.
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=1847): Cleanup interpreter ''.
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=1847): Terminating Python.
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=1847): Python has shutdown.
+[Tue Oct 01 19:08:30 2013] [info] mod_wsgi (pid=2013): Attach interpreter ''.
+[Tue Oct 01 19:08:50 2013] [info] [client 70.36.134.86] mod_wsgi (pid=2015, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:08:56 2013] [info] [client 70.36.134.86] mod_wsgi (pid=2014, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:10:45 2013] [info] mod_wsgi (pid=2013): Shutdown requested 'hello'.
+[Tue Oct 01 19:10:45 2013] [info] mod_wsgi (pid=2013): Stopping process 'hello'.
+[Tue Oct 01 19:10:45 2013] [info] mod_wsgi (pid=2013): Destroying interpreters.
+[Tue Oct 01 19:10:45 2013] [info] mod_wsgi (pid=2013): Cleanup interpreter ''.
+[Tue Oct 01 19:10:45 2013] [info] mod_wsgi (pid=2013): Terminating Python.
+[Tue Oct 01 19:10:45 2013] [info] mod_wsgi (pid=2013): Python has shutdown.
+[Tue Oct 01 19:10:46 2013] [info] mod_wsgi (pid=2371): Attach interpreter ''.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2371): Shutdown requested 'hello'.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2371): Stopping process 'hello'.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2371): Destroying interpreters.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2371): Cleanup interpreter ''.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2371): Terminating Python.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2371): Python has shutdown.
+[Tue Oct 01 19:10:53 2013] [info] mod_wsgi (pid=2480): Attach interpreter ''.
+[Tue Oct 01 19:10:56 2013] [info] [client 70.36.134.86] mod_wsgi (pid=2481, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:11:03 2013] [info] [client 70.36.134.86] mod_wsgi (pid=2482, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:18:59 2013] [info] mod_wsgi (pid=2480): Shutdown requested 'hello'.
+[Tue Oct 01 19:18:59 2013] [info] mod_wsgi (pid=2480): Stopping process 'hello'.
+[Tue Oct 01 19:18:59 2013] [info] mod_wsgi (pid=2480): Destroying interpreters.
+[Tue Oct 01 19:18:59 2013] [info] mod_wsgi (pid=2480): Cleanup interpreter ''.
+[Tue Oct 01 19:18:59 2013] [info] mod_wsgi (pid=2480): Terminating Python.
+[Tue Oct 01 19:18:59 2013] [info] mod_wsgi (pid=2480): Python has shutdown.
+[Tue Oct 01 19:19:00 2013] [info] mod_wsgi (pid=2885): Attach interpreter ''.
+[Tue Oct 01 19:19:09 2013] [info] [client 70.36.134.86] mod_wsgi (pid=2887, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:19:21 2013] [info] [client 70.36.134.86] mod_wsgi (pid=2886, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Tue Oct 01 19:20:16 2013] [info] mod_wsgi (pid=2885): Shutdown requested 'hello'.
+[Tue Oct 01 19:20:16 2013] [info] mod_wsgi (pid=2885): Stopping process 'hello'.
+[Tue Oct 01 19:20:16 2013] [info] mod_wsgi (pid=2885): Destroying interpreters.
+[Tue Oct 01 19:20:16 2013] [info] mod_wsgi (pid=2885): Cleanup interpreter ''.
+[Tue Oct 01 19:20:16 2013] [info] mod_wsgi (pid=2885): Terminating Python.
+[Tue Oct 01 19:20:16 2013] [info] mod_wsgi (pid=2885): Python has shutdown.
+[Tue Oct 01 19:20:17 2013] [info] mod_wsgi (pid=3010): Attach interpreter ''.
+[Tue Oct 01 19:20:23 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3011, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:20:33 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3012, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Tue Oct 01 19:45:05 2013] [info] mod_wsgi (pid=3010): Shutdown requested 'hello'.
+[Tue Oct 01 19:45:05 2013] [info] mod_wsgi (pid=3010): Stopping process 'hello'.
+[Tue Oct 01 19:45:05 2013] [info] mod_wsgi (pid=3010): Destroying interpreters.
+[Tue Oct 01 19:45:05 2013] [info] mod_wsgi (pid=3010): Cleanup interpreter ''.
+[Tue Oct 01 19:45:05 2013] [info] mod_wsgi (pid=3010): Terminating Python.
+[Tue Oct 01 19:45:05 2013] [info] mod_wsgi (pid=3010): Python has shutdown.
+[Tue Oct 01 19:45:06 2013] [info] mod_wsgi (pid=3352): Attach interpreter ''.
+[Tue Oct 01 19:45:17 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3354, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 19:45:18 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3353, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 20:12:13 2013] [info] mod_wsgi (pid=3352): Shutdown requested 'hello'.
+[Tue Oct 01 20:12:13 2013] [info] mod_wsgi (pid=3352): Stopping process 'hello'.
+[Tue Oct 01 20:12:13 2013] [info] mod_wsgi (pid=3352): Destroying interpreters.
+[Tue Oct 01 20:12:13 2013] [info] mod_wsgi (pid=3352): Cleanup interpreter ''.
+[Tue Oct 01 20:12:13 2013] [info] mod_wsgi (pid=3352): Terminating Python.
+[Tue Oct 01 20:12:13 2013] [info] mod_wsgi (pid=3352): Python has shutdown.
+[Tue Oct 01 20:12:14 2013] [info] mod_wsgi (pid=3559): Attach interpreter ''.
+[Tue Oct 01 20:12:20 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3561, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Tue Oct 01 20:12:58 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3560, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Tue Oct 01 20:28:47 2013] [info] mod_wsgi (pid=3559): Shutdown requested 'hello'.
+[Tue Oct 01 20:28:47 2013] [info] mod_wsgi (pid=3559): Stopping process 'hello'.
+[Tue Oct 01 20:28:47 2013] [info] mod_wsgi (pid=3559): Destroying interpreters.
+[Tue Oct 01 20:28:47 2013] [info] mod_wsgi (pid=3559): Cleanup interpreter ''.
+[Tue Oct 01 20:28:47 2013] [info] mod_wsgi (pid=3559): Terminating Python.
+[Tue Oct 01 20:28:47 2013] [info] mod_wsgi (pid=3559): Python has shutdown.
+[Tue Oct 01 20:28:48 2013] [info] mod_wsgi (pid=3722): Attach interpreter ''.
+[Tue Oct 01 20:28:54 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3723, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Tue Oct 01 20:29:00 2013] [info] [client 70.36.134.86] mod_wsgi (pid=3724, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=3722): Shutdown requested 'hello'.
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=3722): Stopping process 'hello'.
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=3722): Destroying interpreters.
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=3722): Cleanup interpreter ''.
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=3722): Terminating Python.
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=3722): Python has shutdown.
+[Wed Oct 02 21:18:52 2013] [info] mod_wsgi (pid=11906): Attach interpreter ''.
+[Wed Oct 02 21:23:01 2013] [info] [client 70.36.134.86] mod_wsgi (pid=11909, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Wed Oct 02 21:23:12 2013] [info] [client 70.36.134.86] mod_wsgi (pid=11907, process='', application='ip-172-31-8-73.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:08:42 2013] [info] mod_wsgi (pid=820): Attach interpreter ''.
+[Mon Oct 07 16:21:39 2013] [info] [client 136.152.183.51] mod_wsgi (pid=822, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51] mod_wsgi (pid=822): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51] mod_wsgi (pid=822): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:21:40 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:22:09 2013] [info] [client 136.152.183.51] mod_wsgi (pid=821, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51] mod_wsgi (pid=821): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51] mod_wsgi (pid=821): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:22:10 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:23:36 2013] [info] [client 136.152.183.51] mod_wsgi (pid=822, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51] mod_wsgi (pid=822): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51] mod_wsgi (pid=822): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:23:36 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:25:04 2013] [info] [client 136.152.183.51] mod_wsgi (pid=821, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51] mod_wsgi (pid=821): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51] mod_wsgi (pid=821): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:25:04 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:25:49 2013] [info] [client 136.152.183.51] mod_wsgi (pid=822, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51] mod_wsgi (pid=822): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51] mod_wsgi (pid=822): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:25:49 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:26:02 2013] [info] [client 136.152.183.51] mod_wsgi (pid=821, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51] mod_wsgi (pid=821): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51] mod_wsgi (pid=821): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:26:02 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=820): Shutdown requested 'hello'.
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=820): Stopping process 'hello'.
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=820): Destroying interpreters.
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=820): Cleanup interpreter ''.
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=820): Terminating Python.
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=820): Python has shutdown.
+[Mon Oct 07 16:26:44 2013] [info] mod_wsgi (pid=1672): Attach interpreter ''.
+[Mon Oct 07 16:26:48 2013] [info] [client 136.152.183.51] mod_wsgi (pid=1673, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1673): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1673): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:26:48 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:26:51 2013] [info] [client 136.152.183.51] mod_wsgi (pid=1674, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1674): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1674): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:26:52 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:26:54 2013] [info] [client 136.152.183.51] mod_wsgi (pid=1673, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1673): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1673): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:26:54 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:35:38 2013] [info] [client 136.152.183.51] mod_wsgi (pid=1674, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1674): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51] mod_wsgi (pid=1674): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:35:38 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:36:01 2013] [info] mod_wsgi (pid=1672): Shutdown requested 'hello'.
+[Mon Oct 07 16:36:01 2013] [info] mod_wsgi (pid=1672): Stopping process 'hello'.
+[Mon Oct 07 16:36:01 2013] [info] mod_wsgi (pid=1672): Destroying interpreters.
+[Mon Oct 07 16:36:01 2013] [info] mod_wsgi (pid=1672): Cleanup interpreter ''.
+[Mon Oct 07 16:36:01 2013] [info] mod_wsgi (pid=1672): Terminating Python.
+[Mon Oct 07 16:36:01 2013] [info] mod_wsgi (pid=1672): Python has shutdown.
+[Mon Oct 07 16:36:02 2013] [info] mod_wsgi (pid=2070): Attach interpreter ''.
+[Mon Oct 07 16:36:11 2013] [info] [client 136.152.183.51] mod_wsgi (pid=2071, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51] mod_wsgi (pid=2071): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51] mod_wsgi (pid=2071): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:36:12 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:36:14 2013] [info] [client 136.152.183.51] mod_wsgi (pid=2072, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51] mod_wsgi (pid=2072): Target WSGI script '/var/www/public_html/wsgi/hello.wsgi' cannot be loaded as Python module.
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51] mod_wsgi (pid=2072): Exception occurred processing WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51] Traceback (most recent call last):
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/wsgi/hello.wsgi", line 4, in <module>
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     from hello import app as application
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/hello.py", line 4, in <module>
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     from run import *
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/var/www/public_html/apps/run.py", line 12, in <module>
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     serv = SimpleServer(session, os.path.join(cheshire3Root, 'configs', 'serverConfig.xml'))
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/server.py", line 38, in __init__
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     C3Object.__init__(self, session, topNode, None)
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 416, in __init__
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 319, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     self._parseLxmlIncludes(session, f)
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 285, in _parseLxmlIncludes
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     self._recurseLxmlSubConfigs(session, e)
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 329, in _recurseLxmlSubConfigs
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     dom = self._getDomFromFile(session, path)
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]   File "/home/luis/repository/cheshire3/cheshire3/configParser.py", line 142, in _getDomFromFile
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51]     raise FileDoesNotExistException(fileName)
+[Mon Oct 07 16:36:15 2013] [error] [client 136.152.183.51] FileDoesNotExistException: FileDoesNotExistException: /home/luis/data/s3bucket/dbs/test_20131003/.cheshire3/config.xml
+[Mon Oct 07 16:42:38 2013] [info] [client 136.152.183.51] mod_wsgi (pid=2071, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 16:42:56 2013] [info] [client 136.152.183.51] mod_wsgi (pid=2072, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'.
+[Mon Oct 07 18:15:22 2013] [info] mod_wsgi (pid=2070): Shutdown requested 'hello'.
+[Mon Oct 07 18:15:22 2013] [info] mod_wsgi (pid=2070): Stopping process 'hello'.
+[Mon Oct 07 18:15:22 2013] [info] mod_wsgi (pid=2070): Destroying interpreters.
+[Mon Oct 07 18:15:22 2013] [info] mod_wsgi (pid=2070): Cleanup interpreter ''.
+[Mon Oct 07 18:15:22 2013] [info] mod_wsgi (pid=2070): Terminating Python.
+[Mon Oct 07 18:15:22 2013] [info] mod_wsgi (pid=2070): Python has shutdown.
+[Mon Oct 07 18:17:42 2013] [info] mod_wsgi (pid=836): Attach interpreter ''.
+[Mon Oct 07 18:54:23 2013] [info] [client 136.152.179.118] mod_wsgi (pid=839, process='', application='ip-172-31-8-23.us-west-2.compute.internal|'): Loading WSGI script '/var/www/public_html/wsgi/hello.wsgi'., referer: http://ec2-54-200-19-73.us-west-2.compute.amazonaws.com/search
