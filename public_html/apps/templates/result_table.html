@@ -1,4 +1,4 @@
-<!doctype html>
+<!-- <!doctype html>
 
 <table>
 <tr>
@@ -15,4 +15,76 @@
 		</script>
 	</td></tr>
 {% endfor %}
-</table>
+</table> -->
+
+
+ <!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Search Results</title>
+        <meta name="description" content="WebArch Assignment">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <header>
+            <div class="wrapper-page">
+        	   <h1>Digging-into-Data</h1>
+                <p>A Cheshire Demo</p>
+            </div>
+        </header>
+        <section id="wrapper-form">
+
+            <div class="wrapper-page">
+
+
+            	<h2>For the query: {{ query }} </h2>
+    			<ul class="generallist">
+    				{% for url in urls %}
+    				<li>
+    					<script language="JavaScript">
+							var archive_prefix = "http://www.archive.org/stream/";
+							var archive_page = "#page/1/mode/2up/search/";
+							//var archive_url = archive_prefix.concat(file, archive_page, {{query}});
+							//document.write( "<a href=\"" + {{ url|tojson|safe }} + "\">{{ url }}</a>")
+							document.write("<a href=\"http://www.archive.org/stream/"  + {{url|tojson|safe}} + "#page/1/mode/2up/search/" + {{query|tojson|safe}} + "\">{{url}}</a>");
+						</script>
+    					
+    				</li>
+    				{% endfor %}
+    			</ul>
+            		
+          	</div>
+        </section>
+        
+
+
+
+
+
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        
+        <!-- included so that console.log doesn't give error in IE -->
+        <script src="js/plugins.js"></script> 
+        <script src="js/main.js"></script>
+
+       
+    </body>
+</html>
