@@ -6,6 +6,7 @@ from flask import render_template
 from flask import jsonify
 
 app = Flask(__name__)
+app.debug = True
 
 @app.route('/search', methods=['POST', 'GET'])
 def search():
@@ -13,7 +14,9 @@ def search():
     if request.method == 'GET' and request.args.get('q') != None:
         qf = db.get_object(session, 'defaultQueryFactory')
         qString = request.args.get('q')
-        query = qf.get_query(session, qString)
+        full_query = "c3.idx-geoname = '" + qString.replace("+", " ") + "'"
+	print(full_query)
+        query = qf.get_query(session, full_query)
         rs = db.search(session, query)
         titlelist = []
         for rsi in rs:
@@ -38,13 +41,13 @@ def search():
                         if title:
                             # Strip leading/trailing whitespace
                             title = title.strip()
-                            titlelist.append(os.path.splitext(os.path.basename(title)))
+                            titlelist.append(os.path.splitext(os.path.basename(title))[0][:-6])
                             break
         # in title, we now have the path and filename
         #return render_template("result_table.html", urls=titlelist)
-	# dummy data
-	titlelist = ['birdbookillustra00reedrich', 'mobydickorwhale02melvuoft']
-	return render_template("result_table.html", urls=titlelist, query='swamp')
+        # dummy data
+        #titlelist = ['birdbookillustra00reedrich', 'mobydickorwhale02melvuoft']
+        return render_template("result_table.html", urls=set(titlelist), query=qString)
 
     # the initial search form
     return render_template("search.html")
@@ -54,4 +57,5 @@ def hello_world():
     return render_template("index.html") 
 
 if __name__ == '__main__':
+    app.debug = True
     app.run()
